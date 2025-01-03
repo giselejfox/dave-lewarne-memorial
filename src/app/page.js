@@ -5,7 +5,7 @@ export default function Home() {
     <div className="container pb-5">
       <Row className="main-row">
         <Col className="d-flex flex-column justify-content-center align-items-center h-100 pt-lg-5" xs={12} lg={4} >
-          <img className="w-75 rounded" src="/img/dave-headshot.jpeg" alt="Dave and Anne sitting at a table and smiling" />
+          <img className="w-75 rounded" src="/img/dave-blur.JPG" alt="Dave and Anne sitting at a table and smiling" />
           <div className="mb-4">David Joel LeWarne (1970-2024)</div>
         </Col>
         <Col xs={12} lg={8} className="pt-lg-5">
