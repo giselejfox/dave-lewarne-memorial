@@ -1,5 +1,45 @@
 const memories = [
     {
+        name: "",
+        message: "Always looking out for every kid. Seeing potential in everyone. Making the mood positive and fun. Encouraging us to do our best. I remember one time after a race I was having a hard time on he reminded me about how hard I’ve been working and not to be hard on myself. That’s the type of person he was, he could see when you needed help and was always there for others."
+    },
+    {
+        name: "Bernadette McIver",
+        message: "My first memory of Dave was at Nate's senior year xc banquet when the senior boys got up to pass out their shirts. Dave shook his head and laid no claim to what was about to happen - I came to love this same scenario every year at the banquets! It was my first inkling into the humor and wit that was Coach LeWarne. My kids have had many coaches across many sports at SHS since 2012, and hands down LeWarne is my favorite along with his coaching staff. He always said he was lucky to coach such great kids/runners. But, in a world where many coaches destroy the psyche of young athletes, it was truly our kids that were lucky to have him as their coach/teacher/mentor!"
+    },
+    {
+        name: "Lauryn LePoidevin",
+        message: "It’s hard to choose a favorite memory with LeWarne because he brought so much positive energy and influence into my life—and to everyone around him. LeWarne was an incredible coach and mentor who always believed in you. I’m so lucky to have had him coach me in high school and to have had his support in endeavors beyond that. My most recent memory with LeWarne was just before I was going to graduate college in 2023. I met up with him, Grace, and our dogs, of course, and we got to catch up on life. I remember LeWarne being filled with joy just hearing about my college journey, and he was SO excited to hear about my plans for the future. This moment exemplifies the lasting impression LeWarne left on me. He always made time for others, put them first, and genuinely cared about everyone around him. His positivity and kindness were contagious. These are values I will continue to hold and uphold dearly."
+    },
+    {
+        name: "Evans",
+        message: "LeWarne was my anatomy teacher in highschool, and I also was a TA for him during 2 semesters. Every week I asked to watch Finding Nemo, to no avail… until the last day of my senior year, he played it on the projector but upside down and in Spanish… “Surprise Evans!” was the first thing he said when I walked into class, and it still makes me laugh to this day. In college I reached out for some advice in my 200 level anatomy class, he replied immediately with links to all the books he used in his curriculum and coloring books to help me study. He always looked out for all of us, but made it so fun along the way. Rest in peace, LeWarne. 2nd floor of C Building will never be the same!❤️"
+    },
+    {
+        name: "",
+        message: "Coach LeWarne was the catalyst for so many of my favorite high school memories. Cold plunges in the Pilchuck River after mile intervals, trail runs at Lord Hill park, and cereal team breakfasts after cold and rainy morning runs. His humor, kindness, and mentorship were truly something special ❤️ "
+    },
+    {
+        name: "",
+        message: "I didn't miss one x-country or track meet in the first four years Dave started to coach at Snohomish HS as my son ran those years for Dave.  I have the best memories of how special of a coach and teacher Dave was and I will truly miss him.  My son and all those students were so blessed to have known Dave and have had him part of our lives."
+    },
+    {
+        name: "",
+        message: "Since the first year Dave started coaching at Snohomish HS I have always texted him the day before state x-country \"Good luck at State the kids are so blessed to have you as coach\" Dave always texted back, I will miss those text."
+    },
+    {
+        name: "Doug Lehning",
+        message: "I met Dave the first year he started to coach x-country at Snohomish HS.  My son Jared Lehning was a freshman and Dave's first coaching challenge.  I have taken thousands of photos during those four years of him coaching Jared but these four were take a few years later while Dave was competing at the Lake Stevens Half Ironman.  As Dave passed me at the run water station he says to me \"okay Doug one and Done\" I never laughed so hard.  Dave was a kind, funny awesome coach and person and I will miss texting with him every x-country season."
+    },
+    {
+        name: "Ham",
+        message: "Dave taught me how to drive a stick shift up at TC’s cabin. Fortunately we were out in the sticks so nobody was harmed :) "
+    },
+    {
+        name: "Miriam",
+        message: "One of my first experiences with him was at my first XC camp, I had bad blisters and Grace was like, no worries! my dad can help you, so she takes me to him and this guy I barely know is putting ointment and bandaids on my feet and while I sit on the table hahhaha."
+    },
+    {
         name: "Ann Lepse",
         message: "Many times I drove the school bus for the XC team and track team for the seven years my boys ran long distance. Driving back after meets, Dave always had “helpful”, but not always legal, suggestions of how to get back to the school faster. There were many laughs, and some “we won’t mention this moment”, with him and the other coaches on those trips."
     },
