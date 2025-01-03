@@ -6,7 +6,7 @@ export default function Home() {
       <Row className="main-row">
         <Col className="d-flex flex-column justify-content-center align-items-center h-100 pt-lg-5" xs={12} lg={4} >
           <img className="w-75 rounded" src="/img/dave-headshot.jpeg" alt="Dave and Anne sitting at a table and smiling" />
-          <div className="">David Joel LeWarne (1970-2024)</div>
+          <div className="mb-5">David Joel LeWarne (1970-2024)</div>
         </Col>
         <Col xs={12} lg={8} className="pt-lg-5">
           {/* <h1 className="">Dave LeWarne</h1> */}
@@ -23,7 +23,6 @@ export default function Home() {
           <h3>Submit Photos and Stories</h3>
           <div><a href="https://form.jotform.com/243655021912047">Click here</a> to submit your favorite Dave pictures and memories. After review, your submissions will be available to view on the <a href="/memories">memories</a> page.</div>
           <h2 className="mt-5">How to Support</h2>
-          <h3>Donations</h3>
           <p>We encourage you to show your love for Dave through championing the kids in your community. In lieu of flowers, please consider a donation to the David J. LeWarne Memorial Scholarship</p>
           <p><a href="https://www.snoed.org/donate-online/">Click here</a> to donate online, include David J LeWarne in the "Notes/Name of Tribute/Fund/Scholarship" section of the form.</p>
           <p>You can also mail a check to PO Box 1312, Snohomish, WA 98291. Please include a note for Dave LeWarne Scholarship on the check. </p>
