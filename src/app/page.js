@@ -6,11 +6,9 @@ export default function Home() {
       <Row className="main-row">
         <Col className="d-flex flex-column justify-content-center align-items-center h-100 pt-lg-5" xs={12} lg={4} >
           <img className="w-75 rounded" src="/img/dave-headshot.jpeg" alt="Dave and Anne sitting at a table and smiling" />
-          <div className="mb-5">David Joel LeWarne (1970-2024)</div>
+          <div className="mb-4">David Joel LeWarne (1970-2024)</div>
         </Col>
         <Col xs={12} lg={8} className="pt-lg-5">
-          {/* <h1 className="">Dave LeWarne</h1> */}
-          {/* <p className="fw-bold">1970-2024</p> */}
           <h1 className="mt">Celebrating the Life of Dave LeWarne</h1>
           <div className="mb-2">
             <div><span className="fw-bold">Date:</span> Friday January 10th 2025</div>
@@ -19,7 +17,7 @@ export default function Home() {
             <div>Find a map of the high school and parking options <a href="/img/SHS-SiteMap2.png">here</a></div>
           </div>
           <div>There will be a livestream of the service. More information and link coming soon.</div>
-          <button className="btn btn-success mt-3 w-fit">Link to the Livestream</button>
+          <a href="/livestream"><button className="btn btn-success mt-3 w-fit">Link to the Livestream</button></a>
           <h3>Submit Photos and Stories</h3>
           <div><a href="https://form.jotform.com/243655021912047">Click here</a> to submit your favorite Dave pictures and memories. After review, your submissions will be available to view on the <a href="/memories">memories</a> page.</div>
           <h2 className="mt-5">How to Support</h2>
