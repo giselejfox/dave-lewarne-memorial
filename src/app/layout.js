@@ -25,9 +25,14 @@ export default function RootLayout({ children }) {
                   {/* <Nav.Link className="d-flex align-items-center" href="/photo-gallery">Photo Gallery</Nav.Link> */}
                   <Nav.Link className="d-flex align-items-center" href="/memories">Memories</Nav.Link>
                 </div>
-                <Nav.Link className="d-flex align-items-center" href="/livestream">
-                  <button className="btn btn-success">Memorial Livestream</button>
-                </Nav.Link>
+                <div className="d-flex flex-row">
+                  <Nav.Link className="d-flex align-items-center" href="/livestream">
+                    <button className="btn btn-success">Memorial Livestream</button>
+                  </Nav.Link>
+                  <Nav.Link className="d-flex align-items-center" href="/livestream">
+                    <button className="btn btn-success">David J LeWarne Memorial Scholarship Fund</button>
+                  </Nav.Link>
+                </div>
               </Nav>
               </Navbar.Collapse>
           </Container>
