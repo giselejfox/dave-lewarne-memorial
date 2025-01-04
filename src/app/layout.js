@@ -1,42 +1,41 @@
-'use client'
-
-import { Geist, Geist_Mono } from "next/font/google";
 import 'bootstrap/dist/css/bootstrap.css';
 import './globals.css'
+import Head from "next/head";
+import MyNavbar from "@/components/MyNavbar";
 
-import { Navbar, Nav, Container } from "react-bootstrap";
-
-// export const metadata = {
-//   title: "Dave LeWarne Memorial",
-//   description: "Information about the Dave LeWarne 2025 memorial",
-// };
+export const metadata = {
+  title: "David J. LeWarne Memorial",
+  description: "Join us in celebrating the life of David Joel LeWarne (1970–2024). Memorial service details, ways to share memories, and information on supporting the scholarship fund in his honor.",
+  keywords: "David LeWarne Memorial, David Joel LeWarne, Celebration of Life, Memorial Service, Scholarship Fund, Snohomish WA",
+  openGraph: {
+    title: "David J. LeWarne Memorial - Celebrating a Life Well Lived",
+    description: "Join us in celebrating the life of David Joel LeWarne. Find memorial details, share memories, and learn how to support the scholarship fund in his honor.",
+    url: "https://yourwebsite.com/",
+    siteName: "David J. LeWarne Memorial",
+    images: [
+      {
+        url: "/img/dave.JPG",
+        width: 1200,
+        height: 630,
+        alt: "A smiling David Joel LeWarne",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "David J. LeWarne Memorial - Celebrating a Life Well Lived",
+    description: "Join us in celebrating the life of David Joel LeWarne. Memorial service details and ways to contribute.",
+    images: ["/img/dave.JPG"],
+  },
+};
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <Navbar expand="lg" className="bg-body-tertiary mb-3">
-          <Container>
-              <Navbar.Brand href="/" className="fw-bold">Dave J. LeWarne</Navbar.Brand>
-              <Navbar.Toggle aria-controls="basic-navbar-nav" />
-              <Navbar.Collapse id="basic-navbar-nav">
-              <Nav className="w-100 justify-content-between">
-                <div className="d-flex">
-                  {/* <Nav.Link className="d-flex align-items-center" href="/photo-gallery">Photo Gallery</Nav.Link> */}
-                  <Nav.Link className="d-flex align-items-center" href="/memories">Memories</Nav.Link>
-                </div>
-                <div className="d-flex flex-column flex-lg-row">
-                  <Nav.Link className="d-flex align-items-center" href="/livestream">
-                    <button className="btn btn-success">Memorial Livestream</button>
-                  </Nav.Link>
-                  <Nav.Link className="d-flex align-items-center" href="https://www.snoed.org/donate-online/">
-                    <button className="btn btn-success">David J LeWarne Memorial Scholarship Fund</button>
-                  </Nav.Link>
-                </div>
-              </Nav>
-              </Navbar.Collapse>
-          </Container>
-        </Navbar>
+        <MyNavbar />
         {children}
       </body>
     </html>
