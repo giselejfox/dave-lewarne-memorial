@@ -15,7 +15,7 @@ export default function MyNavbar() {
                   <Nav.Link className="d-flex align-items-center" href="/memories">Memories</Nav.Link>
                 </div>
                 <div className="d-flex flex-column flex-lg-row">
-                  <Nav.Link className="d-flex align-items-center" href="/livestream">
+                  <Nav.Link className="d-flex align-items-center" href="https://www.youtube.com/live/a8LDr_FnSUk">
                     <button className="btn btn-success">Memorial Livestream</button>
                   </Nav.Link>
                   <Nav.Link className="d-flex align-items-center" href="https://www.snoed.org/donate-online/">

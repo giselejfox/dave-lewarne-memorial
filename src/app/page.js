@@ -17,7 +17,7 @@ export default function Home() {
             <div>Find a map of the high school and parking options <a href="/img/SHS-SiteMap2.png">here</a></div>
           </div>
           {/* <div>There will be a livestream of the service. More information and link coming soon.</div> */}
-          <a href="/livestream"><button className="btn btn-success mt-3 w-fit">Link to the Livestream</button></a>
+          <a href="https://www.youtube.com/live/a8LDr_FnSUk"><button className="btn btn-success mt-3 w-fit">Link to the Livestream</button></a>
           <h2 className="mt-5">Submit Photos and Stories</h2>
           <div><a href="https://form.jotform.com/243655021912047">Click here</a> to submit your favorite pictures and memories of Dave. After review, your submissions will be available to view on the <a href="/memories">memories</a> page.</div>
           <h2 className="mt-5">How to Support</h2>
