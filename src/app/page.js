@@ -9,7 +9,7 @@ export default function Home() {
           <div className="mb-4">David Joel LeWarne (1970-2024)</div>
         </Col>
         <Col xs={12} lg={8} className="pt-lg-5">
-          <h1 className="mt">Celebrating the Life of David J LeWarne</h1>
+          <h1 className="mt">Celebrating the Life of David J. LeWarne</h1>
           <div className="mb-2">
             <div><span className="fw-bold">Date:</span> Friday, January 10th 2025</div>
             <div><span className="fw-bold">Time:</span> 4:00pm</div>

@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
       <body>
         <Navbar expand="lg" className="bg-body-tertiary mb-3">
           <Container>
-              <Navbar.Brand href="/" className="fw-bold">Dave J LeWarne</Navbar.Brand>
+              <Navbar.Brand href="/" className="fw-bold">Dave J. LeWarne</Navbar.Brand>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="w-100 justify-content-between">
