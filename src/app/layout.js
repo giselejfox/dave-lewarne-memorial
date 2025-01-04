@@ -6,7 +6,7 @@ import MyNavbar from "@/components/MyNavbar";
 export const metadata = {
   title: "David J. LeWarne Memorial",
   description: "Join us in celebrating the life of David Joel LeWarne (1970–2024). Memorial service details, ways to share memories, and information on supporting the scholarship fund in his honor.",
-  keywords: "David LeWarne Memorial, David Joel LeWarne, Celebration of Life, Memorial Service, Scholarship Fund, Snohomish WA",
+  keywords: "David LeWarne Memorial, Dave LeWarne, Dave J LeWarne, Dave J. LeWarne, David Joel LeWarne, Celebration of Life, Memorial Service, Memorial, Scholarship Fund, Snohomish High School, Biology Teacher, David LeWarne Memorial Scholarship, Dave LeWarne Memorial Scholarship, Snohomish WA",
   openGraph: {
     title: "David J. LeWarne Memorial - Celebrating a Life Well Lived",
     description: "Join us in celebrating the life of David Joel LeWarne. Find memorial details, share memories, and learn how to support the scholarship fund in his honor.",
