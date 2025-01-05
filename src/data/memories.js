@@ -1,11 +1,47 @@
 const memories = [
     {
+        name: "The Benson Family",
+        message: "Dave was the epitome of a wonderful coach, teacher, mentor and friend.  He was encouraging, funny, creative, forgiving, inclusive and empathetic. He was the perfect person to RUN THIS TOWN! XC was the one place where people in the back mattered just as much as people in the front. LeWarne made that possible. He seemed more concerned about building character than winning. He made running fun with things like: Watermelon run, team dinners, trips: Monteray, CA, Redwoods, swimming in the ocean, Tillamook Mud Run, running to hit golf balls, meat-locker, poker runs, cereal boxes hidden at Lord Hill. Annual favorite was Dirty Face camp, running up 4000ft, playing Yahtzee, Ice cream run, bacon explosion. Supporting others through: Alex Hopkins Memorial Run, Pumpkin Runs for grade school kids, helping at Eason & Special Olympics. He was great about including people in a casual Turkey Trot – never for fastest time, but building community.  I would like to continue this tradition in his honor."
+    },
+    {
+        name: "Bridget Thomsen daughter Kendall Thomsen (Wheeler)",
+        message: "My daughter had Dave her senior at SHS back in 2017 . She had lost her grandma the year before was having a hard time getting to the finish line to graduate. He was a big supporter for her and helped and encouraged her along the way and when she went to graduation rehearsal. There was an encouraging and positive letter to her from Dave telling her how proud he was of her! His support and what that letter meant never left her or us❤️"
+    },
+    {
+        name: "Tina Baxter",
+        message: "Our family has been blessed by friendship with the Fox-LeWarne family since our girls were babies, and feel so very lucky we ended up in Snohomish where our girls could go through high school (and beyond) seeing Dave’s leadership and love at work, every day. We have all learned so much from him - in how we approach teamwork, challenges and life. His joyful greeting, laughter, mentorship during tough times, steady coaching, teaching, caring, cheering, crazy multiple font cross country/ distance team handouts, classroom breakfasts, and support of our family far beyond the walls and track of SHS are just a few of the things we will terribly miss, and never forget, about LeWarne.❤️🐾🎈"
+    },
+    {
+        name: "Bruce and Jo Caldwell",
+        message: "What a pleasure to read all the wonderful comments about David from those who were students and colleagues of his. However, those of us who knew him as Pauline and Chuck's son saw a wonderful side of his love and care for his parents. They are both in their 90s, and David was a rock to them. He was always helping them with projects and ensuring their wellbeing. He once told me, \"Any time Dad wants to barbeque, I show up to make sure nothing goes wrong.\" He, along with Charlie and Anne, have been wonderful kids to their parents. I grieve for the family with this unexpected tragic loss of a son, brother and father. Chuck and Pauline raised some great kids, and those kids, including David, have reciprocated in caring for their folks. What more can we say, except David was a terrific son."
+    },
+    {
+        name: "Alex",
+        message: "It’s hard to pick a favorite story. LeWarne was like a second dad to me. It’s difficult to overstate the tremendous positive impact he had on my life.  I guess I’ll pick a fairly dull story but one that is representative of how patient and caring he (and Anne) were. Probably once a week during the track or cross season I would think of something I’d need to ask LeWarne about around 9pm at night, and I’d call his house phone. Inevitably Anne would pick up and say “Hello Alex, hold on let me get Dave”. And then Dave would pick up and make some joke about how I’m lucky Jane just went to bed. And then he’d listen patiently to whatever I’d want to talk about even though he was probably dead tired. That’s just the kind of guy he was, always ready to set aside whatever he was doing and listen and care. The world has lost one of the great ones "
+    },
+    // {
+    //     name: "",
+    //     message: "Dave always packed a closet full of  clothes in his car. After our runs at the gulch (8 miles from his house) he would smell an article of clothing to see if it was good to go before we had our post run beer. "
+    // },
+    {
+        name: "Bailey Jensen (former student and cross country team member 2009-2012) ",
+        message: "Dave was an amazing teacher and coach! I always felt that he always cared about the well being of his athletes and truly wanted the best for them. He was always looking out for us. I will always remember him on the sidelines of each race cheering each of us on and encouraging the team to do the same. To me he will always be a great example of strength and kindness. Coach Dave, you will be missed! Thank you for everything you taught me through the years. "
+    },
+    {
+        name: "Leiran Cornish, SHS class of 2012",
+        message: "I, and many of my teammates were blessed by Coach Dave. We freshman girls...class of 2012...were his 1st XC team that he took under his coaching wing. We could tell that to Dave, we were special. Dave was more than a coach. He was a kind, genuine, honest man. We knew how much he cared about each of us on the team. \"If it were easy....everyone would do it.\" -Coach Dave. This was played over and over and over to myself after leaving SHS to go run collegiate track and field at Eastern Washington University. It's what fueled me to get through tough workouts under Coach Dave's instruction and it continued to fuel me years after. Dave left a legacy- there are no perfect words to capture everything he did and all that he meant to the people he spent time with. "
+    },
+    {
         name: "",
         message: "Always looking out for every kid. Seeing potential in everyone. Making the mood positive and fun. Encouraging us to do our best. I remember one time after a race I was having a hard time on he reminded me about how hard I’ve been working and not to be hard on myself. That’s the type of person he was, he could see when you needed help and was always there for others."
     },
     {
         name: "Bernadette McIver",
         message: "My first memory of Dave was at Nate's senior year xc banquet when the senior boys got up to pass out their shirts. Dave shook his head and laid no claim to what was about to happen - I came to love this same scenario every year at the banquets! It was my first inkling into the humor and wit that was Coach LeWarne. My kids have had many coaches across many sports at SHS since 2012, and hands down LeWarne is my favorite along with his coaching staff. He always said he was lucky to coach such great kids/runners. But, in a world where many coaches destroy the psyche of young athletes, it was truly our kids that were lucky to have him as their coach/teacher/mentor!"
+    },
+    {
+        name: "Carol Krause",
+        message: "For several years Coach LeWarne would bring his Panther CC team to the farm for an afternoon of running in the fields and thru the corn maze, on these afternoons I enjoyed watching the interactions between team and coach, it was plain to see there was a mutual fondness and shared good humor, but also the certain expectation of hard work and personal accountability. Most usually Coach would have at least one or two of his sweet daughters tagging along with him, and in later years as Panthers training with their teammates. In addition the LeWarne family as a thankyou would bring us a meal, which was so very thoughtful, and I know not always easy given their busy family life. I have enjoyed this family, seeing and visiting with each one on one or together. I am heartbroken for them , but am grateful I had the pleasure to have known such a wonderful man. Our community his family and friends will miss his presence deeply. Love and Prayers for Anne, Jane, Grace and Greta"
     },
     {
         name: "Lauryn LePoidevin",
