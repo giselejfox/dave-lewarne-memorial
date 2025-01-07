@@ -13,6 +13,7 @@ export default function MyNavbar() {
                 <div className="d-flex">
                   {/* <Nav.Link className="d-flex align-items-center" href="/photo-gallery">Photo Gallery</Nav.Link> */}
                   <Nav.Link className="d-flex align-items-center" href="/memories">Memories</Nav.Link>
+                  <Nav.Link className="d-flex align-items-center" href="https://www.legacy.com/us/obituaries/heraldnet/name/david-lewarne-obituary?id=57194820">Official Obituary</Nav.Link>
                 </div>
                 <div className="d-flex flex-column flex-lg-row">
                   <Nav.Link className="d-flex align-items-center" href="https://www.youtube.com/live/a8LDr_FnSUk">
