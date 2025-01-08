@@ -21,7 +21,7 @@ const memories = [
     },
     {
         name: "Lindsey Wolfe (Sieb) ",
-        message: "LeWarne was such a fun and funny teacher and coach! He had such a dry sense of humor. I remember in class he DESPISED gum! Big pet peeve. I had my mom print off an article to share with him about how gum helps kids focus in class and I “presented” it to him… with which he laughed and said I still cousins chew gum in class. Now I am a teacher, and my mom later became a coworker at SHS as a second-career teacher. He will be dearly missed by this community! "
+        message: "LeWarne was such a fun and funny teacher and coach! He had such a dry sense of humor. I remember in class he DESPISED gum! Big pet peeve. I had my mom print off an article to share with him about how gum helps kids focus in class and I “presented” it to him… with which he laughed and said I still couldn't chew gum in class. Now I am a teacher, and my mom later became a coworker at SHS as a second-career teacher. He will be dearly missed by this community! "
     },
     {
         name: "Jenna",
