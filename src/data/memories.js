@@ -1,5 +1,37 @@
 const memories = [
     {
+        name: "Elaine Campbell",
+        message: "Very fortunate to have David in my life. Forever in my heart."
+    },
+    {
+        name: "Alissa Max (Lee)",
+        message: "I was fortunate enough to have Mr. LeWarne as my XC and distance track coach all 4 years of high school at MTHS. The most valuable thing that he taught me is that when one puts in the work and is consistent, one will see results. This was important to me when running and continues to translate to so many areas of my life. He always made me laugh with his quick wit and clever phrases. Practices, trips with the team, and meets were fun because of his leadership. He said he believed in coaching the whole person, not just churning out runners. He always celebrated our successes, no matter whether you were a faster or slower runner, and he held us accountable when we didn't race to our potential. I remember having a really good race senior year and he said I was \"hot city disco out there.\" Another race I didn't do well and he said, \"I couldn't figure out what you were doing.\" I also remember he thought arch support inserts would help with some injuries I had, so he bought them for me and delivered them to me in class one day. I still wear green Superfeet in all of my shoes 20+ years later. I always enjoyed seeing his name and quotes in The Herald when he was interviewed as XC coach at Snohomish HS. 7 years ago I ran into him at a meet at a park where I happened to be with my kids. It was fun to catch up with him. He had such a positive impact on so many people. My thoughts are with his family and many friends."
+    },
+    {
+        name: "Kelly Edgerton Richards",
+        message: "Dave was a college teammate at PLU,  and later on became a fellow coach.  I was lucky enough to coach with him for one season at MLT, then see him at meets each fall and spring when we had each moved on to different schools.  I always appreciated his smile, love for life, and positive attitude.  I learned so much from watching him coach the one season I had with him at MLT, and carried many of his fun loving traditions to my own teams at Inglemoor.  What a wonderful soul and human being.  A life cut way too short, but what an impact he made on the people around him."
+    },
+    {
+        name: "Shana",
+        message: "Dave’s stocked his garage with just about anything you could want, and he was always the first to offer a drink or loan out sports equipment. One of my favorite memories is our after dinner bike rides to “the girls” house to get “water” pops. I think Dave kept a Costco size box of Otter Pops in his garage just for the boys. I love that his girls are just as warm and welcoming as he."
+    },
+    {
+        name: "",
+        message: "I met my now husband running cross country. When LeWarne found out we were dating, he cornered Hans on a run one day to talk to him about it. Hans never brought a lunch to school so I would share some of mine. LeWarne told him \“Well you can’t look at her to be your mommy all the time because she’s not the type of girl that will put on her apron and stay in the kitchen if you ask her to.\” Hans replied \“I know, that’s why I like her so much.\” LeWarne was the ultimate girl dad. To his 3 amazing daughters but also to the rest of us."
+    },
+    {
+        name: "Lindsey Wolfe (Sieb) ",
+        message: "LeWarne was such a fun and funny teacher and coach! He had such a dry sense of humor. I remember in class he DESPISED gum! Big pet peeve. I had my mom print off an article to share with him about how gum helps kids focus in class and I “presented” it to him… with which he laughed and said I still cousins chew gum in class. Now I am a teacher, and my mom later became a coworker at SHS as a second-career teacher. He will be dearly missed by this community! "
+    },
+    {
+        name: "Jenna",
+        message: "So many stories but one is when I was walking into school and I fell in mud. He gave me his socks to wear because mine were all muddy. "
+    },
+    {
+        name: "Katie (Brister) Frank - MTHS Class of 2003",
+        message: "Mr. LeWarne was my health teacher in 9th grade at Terrace and created such a warm atmosphere in that classroom. There was something about him that just felt like “home”. I think it was his consistent humor and obvious care students. He convinced me to join cross country the following year, and so began some of the most memorable times of my high school career. It’s because of him that I learned that I could be a distance runner, something I had never previously aspired to. (I thought all my teammates  were all crazy for the first week of practice, for running so far every day! And then I caught the bug. :)) It’s also because of his gracious leadership that our team had so many good and funny memories - from practice, spaghetti nights, meets, and traveling together. I am shocked and so sad he’s gone. I really wish I would’ve stopped by to say hello these last few years. I pray God’s comfort over his whole family. I’ll miss you Coach!"
+    },
+    {
         name: "The Benson Family",
         message: "Dave was the epitome of a wonderful coach, teacher, mentor and friend.  He was encouraging, funny, creative, forgiving, inclusive and empathetic. He was the perfect person to RUN THIS TOWN! XC was the one place where people in the back mattered just as much as people in the front. LeWarne made that possible. He seemed more concerned about building character than winning. He made running fun with things like: Watermelon run, team dinners, trips: Monteray, CA, Redwoods, swimming in the ocean, Tillamook Mud Run, running to hit golf balls, meat-locker, poker runs, cereal boxes hidden at Lord Hill. Annual favorite was Dirty Face camp, running up 4000ft, playing Yahtzee, Ice cream run, bacon explosion. Supporting others through: Alex Hopkins Memorial Run, Pumpkin Runs for grade school kids, helping at Eason & Special Olympics. He was great about including people in a casual Turkey Trot – never for fastest time, but building community.  I would like to continue this tradition in his honor."
     },
@@ -144,7 +176,7 @@ const memories = [
         message: "One of my favorite memories with Dave was when I was subbing at SHS long term for Tony. Dave would come in each morning to check in, hype me up, and tell me that I was doing a good job. He made me feel welcome and like I'd been part of the team all along. Another great memory I had with Dave was skiing with the stoke squad at Stevens. I remember going down a run that I definitely was not skilled enough for and constantly falling out of my skis. Dave was extremely patient with me and would help grab my skis for me and assure me that we were there to just have a good time and to not take things so seriously! He also made a mean stir fry that trip. Dave was the GOAT and I feel incredibly lucky to have had him in my life as a teacher and a friend. His love for life, adventure, and his family are things that I will never forget about him. Rest easy Dave."
     },
     {
-        name: "",
+        name: "Angela Reid",
         message: "I think we were in middle school when our older siblings dated, and so we started to feel like we were siblings. I was so lucky to have a \"brother\" like Dave. He was kind and funny and just so easy to be around. Dave and I ran track together and before we could drive, we'd walk home after practice together. We would always stop by WesternCo Donuts and buy the dollar day-olds. Like, bags of them. I’m pretty sure this was all Dave’s idea. We also skied together on Saturdays at Stevens Pass, carpooling to the school at 4:30 AM, and loading into the big yellow schoolbus that smelled like Fritos and feet. We had a lesson in the mornings and then had the afternoons to ski on our own. I’d ski with Dave and some other guys, who pushed me out of my comfort zone in such a fun way, and made me a better skier. I remember one day deciding we should ski Seventh (maybe the most expert run at Stevens at that time), and getting to the top and realizing those moguls were so much bigger up close than they'd looked from a distance—and we all basically slid down on our butts. And this was back when we’d ski in jeans. But hey, we had \"skied\" Seventh.  And there was a time when a classmate of ours who was developmentally disabled had a huge crush on Dave. She thought his eyes looked like almonds, so she called him “Almond.” It may have been awkward for Dave to be the focus of her attentions for so long, but he was never cruel, only kind and gracious. I’ll always remember that about him. Dave was a good human. We need more Daves. I’m so sorry he’s gone. "
     },
     {
