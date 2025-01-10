@@ -1,51 +1,79 @@
 const memories = [
     {
-        name: "",
-        message: ""
+        name: "Alexa and Steve Johnson",
+        message: "Dave - You were such a friend to us in our young married days, and the best neighbor in the world. We loved our dinners together, the backyard hangouts, the chats over the fence. To this day, when we play cards, its still always 3 to 13, we always reminisce about you,  and we still need a card shuffler. And sometimes theres a little JYD involved! You taught me about being a dedicated teacher that does more than teach content, but to love your students and meet them where they are and with what they need. You shared your dog for the Furry 5K, you taught us to always take our kids out for pancakes on a snow day (I'll never forget walking down to Kate's with five babies and toddlers in tobogans!), had mountain bike adventures with Steve (until that didn't end well), but most of all you made us feel welcomed into your heart and family. We have missed you so much in recent years, and now we will miss you forever. All our love,"
     },
     {
         name: "",
-        message: ""
+        message: "I remember once at XC practice, Coach LeWarne brought in a picture of his wife, Anne. She was dressed as Snow White for Halloween. I could tell that Mr. LeWarne thought Anne was such a special and beautiful woman, and he was so proud to show us the picture of the woman he loved. 🩷"
+    },
+    {
+        name: "Rylee A ",
+        message: "A couple days I was late to school, and every single time he would be walking to the office and smile and say good morning. His humor is amazing, and you could tell he enjoyed his job. He was an amazing teacher and coach."
     },
     {
         name: "",
-        message: ""
+        message: "Lewarne was my cross-country coach for 4 years. He had a great sense of humor and an inspiring demeanor. One of my core memories of him was when I and a friend were stressing over an upcoming race. We told him how anxious we were and he told us that no matter what happened and how we ran, the sun would still come up the next day, and the world would keep spinning. As a nervous teenager, this put me at ease. He always wanted us to try our best, but he also never pushed too hard or made us feel pressured. He fostered an inclusive and uplifting team culture. LeWarne always cared about our well-being and our lives outside of school or XC. When I decided to apply to colleges in Ireland, he wrote me a recommendation letter that nearly brought my mom to tears. He helped me achieve my goals and I am very grateful to have known him. "
+    },
+    {
+        name: "Anya Bohuta",
+        message: "I got the pleasure of knowing LeWarne and his family through cross country and track. Coach LeWarne was part of the reason I fell in love with running and it has become such a big part of my life! LeWarne inspired and brought so much joy and laughter to cross country. He made hard workout days still enjoyable with his humor and always bringing a smile. He made sure everyone felt included and was part of the team, he didn’t only care about your times as a runner/athlete; he cared about each person as an individual. I remember he always made an effort to learn everyone’s name on the team within the first couple days of practices starting. He is going to be so missed! "
+    },
+    {
+        name: "Elisa",
+        message: "Mr LeWarne made my exchange year easier and funnier. He was such an amazing person. I’m going to miss him."
     },
     {
         name: "",
-        message: ""
+        message: "Mr. Lewarne was the first coach to really have an impact on me. I always felt so welcomed and comfortable around him. His presence was everywhere and everyday I could expect a hi from him while walking through the c building hallway. "
+    },
+    {
+        name: "Lila Vice, SHS Class of ‘24",
+        message: "Mr. LeWarne was always one of my favorite teachers at SHS. He had so much compassion, and lit up the room with his humor. He made me feel so welcome my freshman year, and was so helpful and understanding if I struggled with keeping up with class work, when things in my personal life felt like my world was crashing down. He was a light in my life, and I have looked up to him since I had him as a biology teacher, even requesting to be his TA my senior year just so I could be in his class. I didn’t see him as just a teacher, but someone to confide in, and a friend when it didn’t feel like I had many. I will always be so incredibly grateful for having him as a role model in my life.🩷"
+    },
+    {
+        name: "Erika Klein, EHS ‘89",
+        message: "All those miles and all those smiles…I was fortunate to have grown up around Dave.  He was an amazing leader, teammate, and friend.  We had so many fun memories from Chase Lake elementary school, College Place middle and Edmonds high school with our XC and track teams. Mile repeats, Yost Hills, Maltby, speeding ticket on the way back from TC’s cabin, the 87 Strike, Cougar run, leading stretches, slideshows, McLeod’s biology class, togas and tuxes, and many more. Dave was one of those people you could not see for two or three years and still be able to pick up the conversation like no time at all had passed and of course he always made others laugh. It is no surprise he was such a beloved teacher and coach in his career.  I admire how he always looked out for others around him. He will be greatly missed. "
     },
     {
         name: "",
-        message: ""
+        message: "What can I say? There are so many memories and so many ridiculous phrases/sayings of LeWarne's to list them all. He had a massive impact on the trajectory of my character, life, and career. I can't thank him (and the rest of the coaching staff - Weber, Marci, Reilly - at MTHS) for all they did for me. I can't fathom how different my life would be without the impact that running had on me, and I owe that to LeWarne. Growing up I didn't have a lot of positive support, so as a freshman runner, I was amazed that teammates and coaches cheered for me during races. I was so thankful that I would smile and wave thanks to them. LeWarne had to teach me how to race and helped me to build some confidence. He would tease me in his own goofy way about how I probably could run faster if I could smile and wave at everyone. I am forever grateful and am proud that I was one of his athletes. FLAMING T's FOREVER"
+    },
+    {
+        name: "Jessica Batley",
+        message: " I met Mr. LeWarne in 1998 at MTHS in health class, and my favorite, P.E.  He had just begun his teaching career.  He was a natural in the classroom, like it was in his genes and his destiny to teach and make a difference to so many kids.  He had a knack of making every student special.  I never felt like he had favorites.  His positivity and sense of humor were among his best qualities.  He always called me out when I was sneaking snacks in class!  Just yesterday while logging into an account, I had to answer a security question: who was your favorite teacher.  Teary eyed I answered without a doubt, Mr LeWarne.  Teachers make a huge impact in students lives, he certainly did in mine.  I will never forget him, and my heart goes out to his family.  What a man, and what a lasting legacy he imprinted on so many people.  "
+    },
+    {
+        name: "Braden Kallstrom",
+        message: "As many as I have, no memory of LeWarne is as valuable as the effect he’s had on me. I first met him through XC, but over the time I’ve known him, he’s become so much more than a coach for me. LeWarne was able to balance the high expectations he held his athletes to with genuine care for our wellbeing and future. His personality filled every room he stepped into, and he brought an incredible vibrance to the XC team. He never let up, never settled for less, and always, always, wanted the best for everyone in his life. I’ve never had more respect for anyone, ever. He made me want to succeed; if I was feeling rough one day and couldn’t put the work in for myself, I'd run for LeWarne. He supported me 100%, every day, through everything. Through failures and successes LeWarne was there, letting me know where to improve, what went wrong, and how to fix it. Above all else, he wanted to make sure that I never stopped pursuing the things he thought I was great at, even if I didn’t agree. The undeniably genuine nature of every interaction I had with him led me to trust LeWarne absolutely; if I was struggling with some issue, running-related or otherwise, LeWarne would be there to walk me through it. The little things he did, little quirks that at the time were easily overlooked, are now central to how I remember him, like him telling me freshman year not to call him “coach” because that felt like too much of a football thing (god forbid), or that little smirky smile he’d give me when I hit a PR; nothing has ever evoked a stronger sense of pride. We will always be your runners, and getting to captain under your leadership has been more valuable than any PR will ever be. You played a massive role in shaping me into someone I can be proud of, and I wish I could tell you that now, but it’s too late, and I waited too long. Really missing you, LeWarne. Love ya. "
+    },
+    {
+        name: "Miriam Escoto",
+        message: "The LeWarnes knew I needed to end up at UOregon before I knew it. While Grace and I went down to tour Eugene, we kept our parents updated through a family group chat where Dave was always quick to respond to our pictures with a funny comment. Knowing how anxious I was about choosing a college, LeWarne told me an old friend of his went to UO and she could answer any questions I had. So, I called this woman and simply hearing that she loved UO 20 something years ago sold me—I signed the dotted lines to go the next day after a track meet where I was cheered on and coached by Dave. When the sun would shine extra bright on Hayward, I would always send him a picture. I am so grateful and credit him and Grace for helping me make the decision I was too stubborn to realize, but forever glad I made."
+    },
+    {
+        name: "Michelle Mauro, class of 2011",
+        message: "Dave was one of those teachers that made you feel like you could tell him anything and he wouldn’t judge you or turn you away. Okay, he might judge you a little but he would always listen and be there for you. My sophomore year was the first year I had LeWarne as my science teacher (Biology) and that was where my love of science began. I made sure after that year that he would be my teacher every year I was at SHS. I took Anatomy and Advanced Anatomy with him as well as TA’ed for one of his Biology classes my Senior year. He would always walk around the classroom bending a yard stick that he would inevitably break from bending it too much. He must’ve gone through at least 100 during my time at SHS. On my final day of class I brought him a yard stick and asked him to break it for me and sign it. He signed it “don’t break this” with his name. Today it still rests above my door as a reminder to not take life too seriously. I have been his student, his friend, and even taught his classes as a substitute teacher for the school district. There is no denying that he will be missed greatly and C building won’t be the same without him. Much love,"
     },
     {
         name: "",
-        message: ""
+        message: "I have worked with Dave through the College in the High School class for the past 2 1/2 years. He sought out connecting with Edmonds College to teach the CHS class for his students because he recognized and valued the opportunity to take a college course while in high school.  I enjoyed talking to him about human anatomy and physiology and he would seek out better ways to engage his students to learn the material.  Always kind, happy, and ready to teach, Dave even would search for materials to be donated so his students could experience the content more actively.  I am glad to have known Dave in this short time and will miss him, as I am sure many of his students and fellow faculty will as well."
     },
     {
-        name: "",
-        message: ""
+        name: "Malcolm Fox",
+        message: "When I went to college, Dave told me that I had one get out of jail free card. If I ever got arrested, I should use my one free phone call to call him, and he would help me out. I never needed it, but knowing that Dave was always there for me kept me on the straight and narrow. I knew he was serious about this because he repeatedly reassured me. I choose to think that it wasn't because he felt it was inevitable that I would ever get booked in jail, but because that was his funny way of telling me that he loved me enough to never judge me for any mistakes I could ever make."
     },
     {
-        name: "",
-        message: ""
+        name: "Fox Serviss",
+        message: "He was a wonder to behold in all his tough bio-teacher, XC loving, teenage teaching glory. I'll never forget those times during Bio where he would play the sound of seals going up the river barking and whatnot. It always wakes me up in the mornings. Just remember, whenever you're down, \"The Mitochondria is the powerhouse of the cell!\" In all seriousness though, love you LeWarne!"
     },
     {
-        name: "",
-        message: ""
+        name: "Milda McCormick ",
+        message: "At XC practice Coach Lewarne would always say and do such random/funny things and also sing weird songs and Allie and I would just constantly be saying to each other, \“I love Lewarne so much\""
     },
     {
-        name: "",
-        message: ""
-    },
-    {
-        name: "",
-        message: ""
-    },
-    {
-        name: "",
-        message: ""
+        name: "Aric and Lena Wagner",
+        message: "I’ll never forget his first year as an assistant coach at MTHS, when I asked the head coach if I had a chance to make it to state my senior year, he said no.  Dave heard that pulled me aside and said I could make it if I wanted it bad enough.  He spent the season mentoring me, encouraging me and helped me get to state.  Since then, every time Lena or I run into him, he always asks how we are doing and how our kids are doing in their sports as he keeps tabs on us even 20+ years after Lena and I ran with him as our coach. "
     },
     {
         name: "Tony Wentworth",
