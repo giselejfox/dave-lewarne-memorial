@@ -1,7 +1,123 @@
 const memories = [
     {
-        name: "Elaine Campbell",
-        message: "Very fortunate to have David in my life. Forever in my heart."
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "",
+        message: ""
+    },
+    {
+        name: "Tony Wentworth",
+        message: "I've know Dave since elementary school because our sisters were friends.  We played basketball when we were 8 or 9 years old - on different teams but we practiced next to each other in the gym.  I don't remember learning much about basketball.....but I do remember Dave playfully chasing us before and after practices.  There was a lot laughing, smiling, fun, and looking over my shoulder running away from Dave so he wouldn't catch us and tickle us.  I just remember Dave making basketball practice FUN every night at Chase Lake Elementary in the early 1980s."
+    },
+    {
+        name: "Cheevs, MTHS 2007",
+        message: "By shear luck I saw LeWarne walk by me in Mazama a few years ago. We were all in masks, but I recognized his walk. I guess that's what you remember after running countless miles for 4 years with him as your coach. I got to give him a hug and thank him for telling me \"Cheevs, go to Bellingham, you are never going to move back\". I got to tell him I had bought a house in Bellingham, was working with agriculture and while I didn't join the circus like he suggested, I did learn to juggle. I got to tell him how happy I was and thank him for his huge impact on my life. LeWarne had a way of making each person feel seen, valued and that we mattered. He was the best coach and role model. Since high school I have switched to racing bikes but my race strategy is still everything LeWarne coached."
+    },
+    {
+        name: "",
+        message: "This story goes waaayyy back . . . Dave and I both ran on the PLU cross country team back in the early 90’s. He was a freshman and I was a senior when I ran with him, so I was used to being the “mentor” and he the “mentee” to some extent. But I remember that Dave turned this relationship on it’s head occasionally. I remember my last cross country race of my college career when I had a particularly bad race. I was standing around moping and feeling sorry for myself near the finish line. Dave had a similarly poor race and crossed the line shortly after me. He came up to me with his typical half-smile and sarcasm and said “well, I guess we won’t be turning pro in this running thing after-all”. That comment pulled me out of my funk and lightened the mood. We joked around the whole way home on the bus after that.  The real ironic thing, thinking back on this now, is that I guess Dave did turn pro in running after-all, coaching cross-country and track for most of his career. I’ll definitely miss that positive attitude and wit that he always displayed . . ."
+    },
+    {
+        name: "Pieter Caruso, sophomore on the SHS cross country team.",
+        message: "Coach LeWarne was by far the best coach I’ve ever had in any sport I’ve ever played. From the moment I first showed up to practice on my first day as a freshman, he made sure to make me feel like I was already part of the family. That is my favorite part of his cross country team. He had a way of bringing people together and making them feel welcome. He was also one of the most encouraging and inspirational people I know. He always pushed me to do my best. My favorite thing to hear while running a race was his voice shouting “You got it kid!” as I ran by. Hearing that always made me go a little faster, even if only for a minute. I truly believe that Coach had an enormous impact on the person I am today, and I’m certainly not the only one who can say that. I’m going to miss him more than words can ever say."
+    },
+    {
+        name: "",
+        message: "Dave was my CC Captain his senior year at Edmonds HS. The coaches and teachers went on strike for 4 weeks at the start. I could not coach the runners so Dave was in charge of the turnouts.  When the strike ended our turnouts became official and we could run in some meets.  We qualified for the State CC Meet and when it was finished, Edmonds Boys had captured the STATE CHAMPIONSHIP!!! With Dave's leadership we overcame the roadblocks. To be fair, our girls team under Captain Erika Klein also captured the girls STATE CHAMPIONSHIP that season.  After driving back home over the Cascade Mountains.....the boys and girls got together to celebrate their impossible victory.  At least once a week even today.....I sit back and think about what the Edmonds runners had achieved!!!"
+    },
+    {
+        name: "Karl Smoth",
+        message: "Rest in peace Gentle Soul"
+    },
+    {
+        name: "Angela Lyon (Simonet)",
+        message: "I first Dave LeWarne when I was a 8th grader in College Place Middle school and was getting ready to head into Edmonds high-school as a freshman. It was the spring if 1985 and there was a recruiting assembly in the cafeteria for 8th graders looking to join the Track team at Edmonds High School. I remember meeting Dave. He was like the #1 track star in Washingtin state. Edmonds High School was #1 for track in the state at the time and Dave was their star. I also have to add \"More than a feeling\" by Boston was playing in the background while the slide show, yes...slide show was being shown on the movie screen. Many, many years ago. Dave got me sucked into all the excitement of being on the track team. He was so kind, real, and gracious. I joined track. The twist and turns life takes you. Dave LeWarne ended up living across the street from my very best friend back then and still today, Chelaine Schneider (Wilson). We would see him running CONSTANTLY. Always with a smile and a happy \"hello\" to us lower classmates. Dave was one of the most sincere, real, kindest, regimented humans I have ever known. He had a heart of gold. Seriously. Alot if people will say that about others but Dave was the real deal. I received a phone call from Chelaine on 1/1/25 letting me know the horrible news of Dave's passing. Breaks my heart and I am still in utter shock. He has shown up in my life in many obscure ways. Homeschooling my son and noticing the Washington State history book was written by Dave's father. Teaching at a High School in a town I have lived in for years. I just found this out this week. As the saying goes\" Only the good die young\". This is definitely applies to Dave. He was such an amazing human being. I want to send my condolences, prayers, and love to his family and friends. Absolutely heart breaking. A huge loss for many. "
+    },
+    {
+        name: "Matt Goddard",
+        message: "I was obsessive with everything in high school. Whether it was my training or in life, I had to have it perfect. One thing that always sticks with me that LeWarne told me was, “you run the mileage, the mileage doesn’t run you.” Even though it was in reference to running, I see how relative it is in my life too. There isn’t enough I can say about you LeWarne. Thank you for the laughs and the guidance. Thank you for everything LeWarne. Until next time,"
+    },
+    {
+        name: "Jessica Batley",
+        message: "I met Mr. LeWarne in 1998 my freshman year at MTHS, right as he began his teaching career.  He was my health teacher and teacher for my best subject, P.E. :)  He has a special place in my heart, as I always referred to him as my very favorite teacher.  He had a way of making every student feel important.  I love reading all the stories from former students, as it is clear he made an impact in so many lives.  Sending heartfelt condolences to his family.  "
+    },
+    {
+        name: "The Dremousis Family",
+        message: "Before we all had kids, George and I hung out with Dave and Anne all the time. We always had so much fun, and Dave still tops the list as one of the funniest people I know. When Dave and Anne bought their first house, they did much of the remodeling themselves, which included Dave installing the kitchen cabinets. One of the cabinets, while full of dishes, ripped off the wall (in the middle of the night, if I recall correctly!) Although that was years ago, to this very day, I think of Dave and his cabinet every time I load our kitchen cabinet up with dishes, questioning its integrity. It has been a while since we have seen each other, but it seems like just yesterday. The loss feels immeasurable and we are absolutely heartbroken, but we are so lucky and honored that Dave would have us as his friends."
+    },
+    {
+        name: "George Markabi",
+        message: "I coached with Dave at SHS for XC team. He took us to White River summer camp. The first night there nobody could sleep from mosquitos' attack. In the morning, he looked at me and said: next year we are not coming back again! What about this year Dave? Smiled, hey let's go to the river and jump, it will help! It was the iciest freezing water as I remember. Now what I want to tell you that I am going this year to White River to jump again with Dave. But I will keep him warm in my heart. I will be the freezing alone this time."
+    },
+    {
+        name: "Kristin, Peyton and Paige Hanning. ",
+        message: "I got to know Dave when Greta and Paige were in elementary school playing SJAA basketball, and somehow Dave and I were coaching the girls. He always made me feel like I was doing a great job, and had it all under control, (which I didn’t!) but then at a critical point in the game, I’d get frantic and he’d jump in, gather the girls, tell them what to do, and voila, perfection! He was always a friendly face, and had a kind word over the years. Peyton said he related well to ALL of the different kids in his class. We all send you so much love."
+    },
+    {
+        name: "Bri Gibson, ’15",
+        message: "It’s hard to put into words the impact Coach LeWarne had on so many lives, including mine. He was the heart of our team, though he would never agree. He always insisted the spotlight belonged to us, his runners. He would even shy away from being in team photos sometimes, saying “You all did the work, not me.” That humility defined who he was—a man who truly believed in the potential of others and dedicated himself to bringing it out. Coach LeWarne wasn’t just a coach; he was a mentor, a cheerleader, and a constant source of encouragement. He had this remarkable way of making every runner feel important, whether you were leading the pack or fighting to finish. He believed in us on the tough days and inspired us to believe in ourselves. His lessons went beyond running. He taught us grit, grace and how to persevere, shaping us into better athletes and better people. Coach LeWarne’s impact will always live on in the lives he touched and the stories we’ll continue to tell."
+    },
+    {
+        name: "",
+        message: "We had a travel race in San Francisco, and Meghan Finegan and I asked LeWarne to drive us to Philz Coffee so we could get our caffeine fix—and escape the chaos of traveling with 10 high schoolers. He graciously stepped away from his busy day to take us to the coffee shop we had seen a girl on YouTube visit. I’m sure we added more stress to his day, but he didn’t let it show. I also remember him calling Ann on the way to catch up with her. LeWarne was such a wonderful example of what it means to be a caring husband, dad, and mentor."
+    },
+    {
+        name: "Jim Matthias",
+        message: "I was a fellow freshman XC/track harrier with Dave at PLU.  It’s been fun reminiscing- the PLU senior year photograph of Robert Dufres (Dave as a freshman) still cracks me up to this day.  I can still hear his witty remarks and laughter in my mind. Later, he was known on the running squad as “Booty Time”. Good memories and conversations in his parked Honda - which was where we could have a beer “off campus” while he was an RA at Hinderlie Hall. Wonderful human.  Sorely missed"
+    },
+    {
+        name: "Sarah & Dave Larson",
+        message: "Your hope as parents is that your kids have friends with family who feel like family; they love up your kids. The LeWarne family has been that special friend/family for us. They’ve shown my girls how to cheer at football games and arrive early to get the best spot. They’ve been leaders on the XC team and demonstrated how to be a team captain. They’ve driven my girls to concerts and games. Most recently when we had the huge storm & power outage, they reached out and offered for our girls to stay at their house in town instead of driving home on Three Lakes late at night after basketball practice. They offered us dinner and laundry, and Dave joked with me about living in the library for those several days without power. We’d run into Dave and Anne regularly at Costco, and Dave was never without a twinkle in his eye and a dry joke. His classroom was a regular hangout and safe space; before school, during class and times in between. LeWarne was special—as a coach, a teacher and a friend. His story was too short, and he will be greatly missed. We will continue to love up his family as our forever friends. ♥️"
+    },
+    {
+        name: "",
+        message: "Every interaction with Dave was kind, positive, full of laughter and left you appreciating him even more. What a gift he was and will forever be to all that crossed his path. A huge light in this world and someone that was so great to so many and loved by everyone. We all have heavy broken hearts on this one. If we all could take just a piece of the amazingness of Dave and put it into our lives, the world would be a better place. #livelikedave Sending love to the LeWarne family and all that are hurting during this difficult time. He will be missed is a dramatic understatement. hugs and love! "
+    },
+    {
+        name: "Bobby Olsen",
+        message: "I remember telling Dave and Anne (and girls) about my new summer job with the PUD, which included becoming a certified flagger. Dave was quick to add that he was once a flagger for the city of Edmonds, and he loved it - \"what other job has this much power? Even if a single car was driving up and there was no reason for them to stop, I would flip the sign to STOP and have them wait until I was ready to let them through.\" Dave was always so quick with a story that left others laughing!"
     },
     {
         name: "Alissa Max (Lee)",
